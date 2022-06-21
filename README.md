@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
