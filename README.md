@@ -10,11 +10,13 @@
 
 - 🌱 I’m interested in learning solidity
 
+- 💻 My skills are HTML, CSS, Javascrip, React, Redux, Express, SQL, Sequelize
 
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me:
+    
+    cordobaalvaro16@gmai.com
+   
+    https://www.linkedin.com/in/alvaro-alejandro-cordoba-carlosama-b41a481b4/
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroCordoba-5
 )
