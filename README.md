@@ -9,10 +9,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroCordoba-5
-)](https://github.com/AlvaroCordoba-5
-/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroCordoba-5
+)
 
 ![Alvaro Cordoba GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroCordoba-5
 )
