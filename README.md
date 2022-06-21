@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 
 
-[![Alvaro Cordoba GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroCordoba-5
-)]
+![Alvaro Cordoba GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroCordoba-5
+)
 
 
