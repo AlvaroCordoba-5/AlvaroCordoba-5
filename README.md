@@ -1,4 +1,4 @@
-Hi 👋, I´m Alvaro Codoba.
+<h2>Hi 👋, I´m Alvaro Codoba.</h2>
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
