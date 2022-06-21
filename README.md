@@ -10,3 +10,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+[![Alvaro Cordoba GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroCordoba-5
+)](https://github.com/AlvaroCordoba-5
+/github-readme-stats)
+
+
