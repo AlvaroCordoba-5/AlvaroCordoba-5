@@ -6,17 +6,18 @@
 
 - 🔭 I’m currently working on a personal project, the idea is to use typescrpit and exploring technologies to continue learning!
 
-- 👯 I’m  looking for a job as a frontend developer although I would also like to have work experience as a backend.
+- 💻 I’m  looking for a job as a frontend developer although I would also like to have work experience as a backend.
 
-- 🌱 I’m interested in learning solidity
+- 🌱 I’m interested in learning solidity.
 
-- 💻 My skills are HTML, CSS, Javascrip, React, Redux, Express, SQL, Sequelize
+- 👯 Experience working with agile methodologies.
 
 - 📫 How to reach me:
     
     cordobaalvaro16@gmai.com
    
     https://www.linkedin.com/in/alvaro-alejandro-cordoba-carlosama-b41a481b4/
+    
     
     ## 🛠 &nbsp;Tech Stack
 
