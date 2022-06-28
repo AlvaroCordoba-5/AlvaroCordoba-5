@@ -16,7 +16,7 @@
     
     cordobaalvaro16@gmai.com
    
-    https://www.linkedin.com/in/alvaro-alejandro-cordoba-carlosama-b41a481b4/
+   https://www.linkedin.com/in/alvaro-cordoba-dev/
     
     
     ## 🛠 &nbsp;Tech Stack
