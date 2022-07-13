@@ -4,11 +4,9 @@
 
 
 
-- 🔭 I’m currently working on a personal project, the idea is to use typescrpit and exploring technologies to continue learning!
+- 🔭 I’m currently studying Solidity!
 
 - 💻 I’m  looking for a job as a frontend developer although I would also like to have work experience as a backend.
-
-- 🌱 I’m interested in learning solidity.
 
 - 👯 Experience working with agile methodologies.
 
